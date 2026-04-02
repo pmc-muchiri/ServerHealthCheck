@@ -1,0 +1,592 @@
+2026-04-01 16:14:05,095 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:14:28,737 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:14:28,757 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:14:28,947 | INFO | Starting inspection for target=local machine
+2026-04-01 16:14:29,149 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:14:29,150 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:14:29,150 | INFO | Running PowerShell inspection command
+2026-04-01 16:14:32,997 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:14:33,006 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:14:33,006 | INFO | Inspection thread completed for target=local machine cpu=71.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:14:33,006 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:14:33,026 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:14:43,953 | INFO | Starting inspection for target=local machine
+2026-04-01 16:14:43,956 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:14:43,957 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:14:43,957 | INFO | Running PowerShell inspection command
+2026-04-01 16:14:47,210 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:14:47,211 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:14:47,211 | INFO | Inspection thread completed for target=local machine cpu=65.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:14:47,211 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:14:47,230 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:15:06,632 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:15:06,632 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:15:06,636 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:15:06,637 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:15:06,637 | INFO | Running PowerShell inspection command
+2026-04-01 16:18:00,049 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:18:00,049 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=2
+2026-04-01 16:18:00,049 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=0.0GB services=2 disks=0
+2026-04-01 16:18:00,049 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 16:18:00,058 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:23:52,377 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:23:52,400 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:23:52,640 | INFO | Starting inspection for target=local machine
+2026-04-01 16:23:52,981 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:23:52,981 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:23:52,981 | INFO | Running PowerShell inspection command
+2026-04-01 16:23:56,505 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:23:56,511 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:23:56,511 | INFO | Inspection thread completed for target=local machine cpu=71.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:23:56,511 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:23:56,532 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:24:07,638 | INFO | Starting inspection for target=local machine
+2026-04-01 16:24:07,640 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:24:07,641 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:24:07,641 | INFO | Running PowerShell inspection command
+2026-04-01 16:24:10,801 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:24:10,801 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:24:10,801 | INFO | Inspection thread completed for target=local machine cpu=61.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:24:10,801 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:24:10,820 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:24:22,648 | INFO | Starting inspection for target=local machine
+2026-04-01 16:24:22,650 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:24:22,650 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:24:22,650 | INFO | Running PowerShell inspection command
+2026-04-01 16:24:25,920 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:24:25,920 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:24:25,920 | INFO | Inspection thread completed for target=local machine cpu=66.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:24:25,921 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:24:25,940 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:24:37,656 | INFO | Starting inspection for target=local machine
+2026-04-01 16:24:37,658 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:24:37,658 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:24:37,659 | INFO | Running PowerShell inspection command
+2026-04-01 16:24:40,909 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:24:40,909 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:24:40,909 | INFO | Inspection thread completed for target=local machine cpu=59.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:24:40,910 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:24:40,930 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:24:52,658 | INFO | Starting inspection for target=local machine
+2026-04-01 16:24:52,661 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:24:52,662 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:24:52,662 | INFO | Running PowerShell inspection command
+2026-04-01 16:24:56,072 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:24:56,073 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:24:56,073 | INFO | Inspection thread completed for target=local machine cpu=92.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:24:56,073 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:24:56,093 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:25:07,668 | INFO | Starting inspection for target=local machine
+2026-04-01 16:25:07,673 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:25:07,674 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:25:07,674 | INFO | Running PowerShell inspection command
+2026-04-01 16:25:11,198 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:25:11,199 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:25:11,199 | INFO | Inspection thread completed for target=local machine cpu=83.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:25:11,199 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:25:11,217 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:25:22,666 | INFO | Starting inspection for target=local machine
+2026-04-01 16:25:22,668 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:25:22,669 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:25:22,669 | INFO | Running PowerShell inspection command
+2026-04-01 16:25:26,284 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:25:26,285 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:25:26,285 | INFO | Inspection thread completed for target=local machine cpu=69.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:25:26,285 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:25:26,304 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:25:37,662 | INFO | Starting inspection for target=local machine
+2026-04-01 16:25:37,664 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:25:37,665 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:25:37,665 | INFO | Running PowerShell inspection command
+2026-04-01 16:25:41,021 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:25:41,022 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:25:41,022 | INFO | Inspection thread completed for target=local machine cpu=74.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:25:41,022 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:25:41,041 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:25:52,672 | INFO | Starting inspection for target=local machine
+2026-04-01 16:25:52,675 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:25:52,675 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:25:52,675 | INFO | Running PowerShell inspection command
+2026-04-01 16:25:55,950 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:25:55,951 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:25:55,951 | INFO | Inspection thread completed for target=local machine cpu=100.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:25:55,951 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:25:55,970 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:26:07,672 | INFO | Starting inspection for target=local machine
+2026-04-01 16:26:07,675 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:26:07,676 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:26:07,676 | INFO | Running PowerShell inspection command
+2026-04-01 16:26:12,218 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:26:12,218 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:26:12,218 | INFO | Inspection thread completed for target=local machine cpu=100.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:26:12,219 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:26:12,237 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:26:22,672 | INFO | Starting inspection for target=local machine
+2026-04-01 16:26:22,677 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:26:22,677 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:26:22,678 | INFO | Running PowerShell inspection command
+2026-04-01 16:26:26,052 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:26:26,053 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:26:26,053 | INFO | Inspection thread completed for target=local machine cpu=82.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:26:26,053 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:26:26,073 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:26:37,680 | INFO | Starting inspection for target=local machine
+2026-04-01 16:26:37,683 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:26:37,683 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:26:37,683 | INFO | Running PowerShell inspection command
+2026-04-01 16:26:41,056 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:26:41,056 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:26:41,057 | INFO | Inspection thread completed for target=local machine cpu=79.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:26:41,057 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:26:41,075 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:26:52,672 | INFO | Starting inspection for target=local machine
+2026-04-01 16:26:52,674 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:26:52,675 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:26:52,675 | INFO | Running PowerShell inspection command
+2026-04-01 16:26:56,009 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:26:56,010 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:26:56,010 | INFO | Inspection thread completed for target=local machine cpu=66.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:26:56,010 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:26:56,029 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:27:35,316 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:27:35,337 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:27:35,529 | INFO | Starting inspection for target=local machine
+2026-04-01 16:27:35,729 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:27:35,729 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:27:35,730 | INFO | Running PowerShell inspection command
+2026-04-01 16:27:39,051 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:27:39,058 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:27:39,058 | INFO | Inspection thread completed for target=local machine cpu=72.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:27:39,058 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:27:39,078 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:27:50,536 | INFO | Starting inspection for target=local machine
+2026-04-01 16:27:50,538 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:27:50,539 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:27:50,539 | INFO | Running PowerShell inspection command
+2026-04-01 16:27:53,735 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:27:53,735 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:27:53,735 | INFO | Inspection thread completed for target=local machine cpu=86.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:27:53,736 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:27:53,754 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:28:05,529 | INFO | Starting inspection for target=local machine
+2026-04-01 16:28:05,789 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:28:05,789 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:28:05,789 | INFO | Running PowerShell inspection command
+2026-04-01 16:28:08,983 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:28:08,984 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:28:08,984 | INFO | Inspection thread completed for target=local machine cpu=79.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:28:08,984 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:28:09,002 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:28:20,531 | INFO | Starting inspection for target=local machine
+2026-04-01 16:28:20,533 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:28:20,534 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:28:20,534 | INFO | Running PowerShell inspection command
+2026-04-01 16:28:23,847 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:28:23,848 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:28:23,848 | INFO | Inspection thread completed for target=local machine cpu=86.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:28:23,848 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:28:23,867 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:28:35,533 | INFO | Starting inspection for target=local machine
+2026-04-01 16:28:35,535 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:28:35,535 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:28:35,535 | INFO | Running PowerShell inspection command
+2026-04-01 16:28:38,756 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:28:38,757 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:28:38,757 | INFO | Inspection thread completed for target=local machine cpu=58.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:28:38,757 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:28:38,777 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:28:50,529 | INFO | Starting inspection for target=local machine
+2026-04-01 16:28:50,533 | INFO | Inspection thread started for target=local machine
+2026-04-01 16:28:50,533 | INFO | Collecting inspection payload for target=local machine
+2026-04-01 16:28:50,533 | INFO | Running PowerShell inspection command
+2026-04-01 16:28:53,669 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:28:53,670 | INFO | Inspection payload parsed for target=local machine computer=WIN-86LJCCV575H sql_details=15 services=2
+2026-04-01 16:28:53,670 | INFO | Inspection thread completed for target=local machine cpu=63.0 memory=31.9GB services=2 disks=5
+2026-04-01 16:28:53,670 | INFO | Snapshot received for computer=WIN-86LJCCV575H ip=192.168.56.1
+2026-04-01 16:28:53,689 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:28:55,483 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:28:55,483 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:28:55,487 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:28:55,487 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:28:55,487 | INFO | Running PowerShell inspection command
+2026-04-01 16:29:05,546 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:29:20,555 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:29:35,555 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:29:50,553 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:30:05,557 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:30:20,545 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:30:35,546 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:30:50,565 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:31:05,565 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:31:20,561 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:31:35,563 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:31:48,883 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:31:48,883 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=2
+2026-04-01 16:31:48,883 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=0.0GB services=2 disks=0
+2026-04-01 16:31:48,883 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 16:31:48,891 | INFO | Running queued inspection next
+2026-04-01 16:31:48,895 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:31:48,904 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:31:48,905 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:31:48,905 | INFO | Running PowerShell inspection command
+2026-04-01 16:31:50,562 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:32:05,578 | INFO | Inspection request queued for target=10.1.1.173
+2026-04-01 16:34:42,338 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:34:42,339 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=2
+2026-04-01 16:34:42,339 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=0.0GB services=2 disks=0
+2026-04-01 16:34:42,339 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 16:34:42,349 | INFO | Running queued inspection next
+2026-04-01 16:34:42,356 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:34:42,363 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:34:42,363 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:34:42,363 | INFO | Running PowerShell inspection command
+2026-04-01 16:34:54,918 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:34:55,148 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:35:18,845 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:35:26,750 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:35:26,754 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:35:26,754 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:35:26,754 | ERROR | Inspection thread failed for target=10.1.1.173
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 114, in inspect_target
+    $uptime = "{0}d {1:D2}h {2:D2}m" -f [int]$serviceAge.TotalDays, $serviceAge.Hours, $serviceAge.Minutes
+                    ^^^^^^
+ValueError: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:35:26,757 | ERROR | Inspection error shown in UI: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:35:26,775 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:35:40,582 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:35:42,224 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:35:42,248 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:35:42,248 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:35:42,248 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 114, in inspect_target
+    $uptime = "{0}d {1:D2}h {2:D2}m" -f [int]$serviceAge.TotalDays, $serviceAge.Hours, $serviceAge.Minutes
+                    ^^^^^^
+ValueError: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:35:42,249 | ERROR | Inspection error shown in UI: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:35:42,256 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:38:01,723 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:38:01,745 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:38:14,008 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:38:30,839 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:38:30,843 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:38:30,843 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:38:30,843 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 114, in inspect_target
+    $uptime = "{0}d {1:D2}h {2:D2}m" -f [int]$serviceAge.TotalDays, $serviceAge.Hours, $serviceAge.Minutes
+                    ^^^^^^
+ValueError: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:38:30,846 | ERROR | Inspection error shown in UI: Invalid format specifier 'D2' for object of type 'int'
+2026-04-01 16:38:30,867 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:39:35,976 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:39:35,996 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:39:57,248 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:39:59,882 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:39:59,885 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:39:59,885 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:39:59,885 | INFO | Running PowerShell inspection command
+2026-04-01 16:40:00,683 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:40:00,683 | INFO | Inspection payload parsed for target=10.1.1.172 computer=10.1.1.172 sql_details=15 services=0
+2026-04-01 16:40:00,683 | INFO | Inspection thread completed for target=10.1.1.172 cpu=0.0 memory=0.0GB services=0 disks=0
+2026-04-01 16:40:00,683 | INFO | Snapshot received for computer=10.1.1.172 ip=10.1.1.172
+2026-04-01 16:40:00,692 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:40:16,049 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:40:18,689 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:40:18,692 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:40:18,692 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:40:18,692 | INFO | Running PowerShell inspection command
+2026-04-01 16:41:06,139 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:41:06,140 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=0
+2026-04-01 16:41:06,140 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=0.0GB services=0 disks=0
+2026-04-01 16:41:06,140 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 16:41:06,148 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:44:25,904 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:44:25,935 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:44:25,935 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:44:25,935 | INFO | Running PowerShell inspection command
+2026-04-01 16:45:13,420 | INFO | PowerShell inspection command completed successfully
+2026-04-01 16:45:13,421 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=0
+2026-04-01 16:45:13,421 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=0.0GB services=0 disks=0
+2026-04-01 16:45:13,421 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 16:45:13,430 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:45:48,059 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:45:48,080 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:45:57,908 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:45:59,705 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:45:59,721 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:45:59,722 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:45:59,722 | INFO | Running PowerShell inspection command
+2026-04-01 16:46:00,234 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:46:00,234 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.172
+2026-04-01 16:46:00,237 | ERROR | Inspection error shown in UI: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.172
+2026-04-01 16:46:00,244 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:47:02,254 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:47:03,749 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 16:47:04,629 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 16:47:04,632 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 16:47:04,632 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 16:47:04,633 | INFO | Running PowerShell inspection command
+2026-04-01 16:47:05,213 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:47:05,213 | ERROR | Inspection thread failed for target=10.1.1.173
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.173
+2026-04-01 16:47:05,215 | ERROR | Inspection error shown in UI: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.173
+2026-04-01 16:47:05,223 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:49:24,451 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:49:24,471 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:49:35,191 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:49:36,846 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:49:36,883 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:49:36,883 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:49:36,883 | INFO | Running PowerShell inspection command
+2026-04-01 16:49:37,272 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:49:37,272 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.172
+2026-04-01 16:49:37,275 | ERROR | Inspection error shown in UI: Get-CimInstance : The WinRM client cannot process the request. If the authentication scheme is different from Kerberos, or if the client computer is 
+not joined to a domain, then HTTPS transport must be used or the destination machine must be added to the TrustedHosts configuration setting. Use 
+winrm.cmd to configure TrustedHosts. Note that computers in the TrustedHosts list might not be authenticated. You can get more information about that 
+by running the following command: winrm help config.
+At line:4 char:19
++ ...   $osInfo = Get-CimInstance Win32_OperatingSystem -ComputerName $comp ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotEnabled: (root\cimv2:Win32_OperatingSystem:String) [Get-CimInstance], CimException
+    + FullyQualifiedErrorId : HRESULT 0x803380e4,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
+    + PSComputerName        : 10.1.1.172
+2026-04-01 16:49:37,282 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:51:08,472 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:51:09,712 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:51:09,715 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:51:09,715 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:51:09,715 | INFO | Running PowerShell inspection command
+2026-04-01 16:51:12,195 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:51:12,195 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:51:12,198 | ERROR | Inspection error shown in UI: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:51:12,205 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:51:42,439 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:51:42,468 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:54:07,374 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:54:07,398 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:54:24,026 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:54:28,706 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:54:28,709 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:54:28,709 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:54:28,709 | INFO | Running PowerShell inspection command
+2026-04-01 16:54:30,903 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:54:30,903 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:54:30,906 | ERROR | Inspection error shown in UI: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:54:30,913 | INFO | Inspection cycle finished and system is ready
+2026-04-01 16:57:46,952 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:57:46,973 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 16:57:57,188 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 16:58:00,837 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 16:58:00,841 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 16:58:00,841 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 16:58:00,841 | INFO | Running PowerShell inspection command
+2026-04-01 16:58:03,099 | ERROR | PowerShell inspection command failed with code=1
+2026-04-01 16:58:03,099 | ERROR | Inspection thread failed for target=10.1.1.172
+Traceback (most recent call last):
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\workers.py", line 22, in run
+    snapshot = inspect_target(self.target)
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 85, in inspect_target
+        payload = _run_powershell_json(
+                  ~~~~~~~~~~~~~~~~~~~~^
+            f"""
+            ^^^^
+    ...<226 lines>...
+            """
+            ^^^
+        )
+        ^
+  File "e:\pmc\projects\Housekeeping\housekeeping_desktop\app\inspector.py", line 25, in _run_powershell_json
+    raise RuntimeError((completed.stderr or completed.stdout or f"PowerShell exited with code {completed.returncode}").strip())
+RuntimeError: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:58:03,102 | ERROR | Inspection error shown in UI: ForEach-Object : Exception calling "ToDateTime" with "1" argument(s): "Specified argument was out of the range of valid values.
+Parameter name: dmtfDate"
+At line:20 char:44
++         $serviceRows = @($serviceTargets | ForEach-Object {
++                                            ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ForEach-Object], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException,Microsoft.PowerShell.Commands.ForEachObjectCommand
+2026-04-01 16:58:03,109 | INFO | Inspection cycle finished and system is ready
+2026-04-01 17:00:57,613 | INFO | Logging initialized at E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 17:00:57,634 | INFO | Application started. Log file: E:\pmc\projects\Housekeeping\housekeeping_desktop\logs\inspection.log
+2026-04-01 17:01:07,287 | INFO | Apply target requested for target=10.1.1.172
+2026-04-01 17:01:10,302 | INFO | Starting inspection for target=10.1.1.172
+2026-04-01 17:01:10,305 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-01 17:01:10,306 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-01 17:01:10,306 | INFO | Running PowerShell inspection command
+2026-04-01 17:01:13,367 | INFO | PowerShell inspection command completed successfully
+2026-04-01 17:01:13,367 | INFO | Inspection payload parsed for target=10.1.1.172 computer=10.1.1.172 sql_details=15 services=2
+2026-04-01 17:01:13,367 | INFO | Inspection thread completed for target=10.1.1.172 cpu=87.0 memory=31.9GB services=2 disks=5
+2026-04-01 17:01:13,367 | INFO | Snapshot received for computer=10.1.1.172 ip=10.1.1.172
+2026-04-01 17:01:13,379 | INFO | Inspection cycle finished and system is ready
+2026-04-01 17:01:23,774 | INFO | Apply target requested for target=10.1.1.173
+2026-04-01 17:01:28,128 | INFO | Starting inspection for target=10.1.1.173
+2026-04-01 17:01:28,131 | INFO | Inspection thread started for target=10.1.1.173
+2026-04-01 17:01:28,132 | INFO | Collecting inspection payload for target=10.1.1.173
+2026-04-01 17:01:28,132 | INFO | Running PowerShell inspection command
+2026-04-01 17:02:20,715 | INFO | PowerShell inspection command completed successfully
+2026-04-01 17:02:20,715 | INFO | Inspection payload parsed for target=10.1.1.173 computer=10.1.1.173 sql_details=15 services=2
+2026-04-01 17:02:20,715 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=32.0GB services=2 disks=2
+2026-04-01 17:02:20,716 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
+2026-04-01 17:02:20,726 | INFO | Inspection cycle finished and system is ready
