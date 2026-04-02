@@ -590,3 +590,17 @@ At line:20 char:44
 2026-04-01 17:02:20,715 | INFO | Inspection thread completed for target=10.1.1.173 cpu=0.0 memory=32.0GB services=2 disks=2
 2026-04-01 17:02:20,716 | INFO | Snapshot received for computer=10.1.1.173 ip=10.1.1.173
 2026-04-01 17:02:20,726 | INFO | Inspection cycle finished and system is ready
+2026-04-02 10:50:42,059 | INFO | Logging initialized at E:\pmc\projects\ServerHealthCheck\logs\inspection.log
+2026-04-02 10:50:42,078 | INFO | Application started. Log file: E:\pmc\projects\ServerHealthCheck\logs\inspection.log
+2026-04-02 10:51:03,244 | INFO | Apply target requested for target=10.1.1.172
+2026-04-02 10:51:11,421 | INFO | Starting inspection for target=10.1.1.172
+2026-04-02 10:51:11,427 | INFO | Inspection thread started for target=10.1.1.172
+2026-04-02 10:51:11,428 | INFO | Collecting inspection payload for target=10.1.1.172
+2026-04-02 10:51:11,428 | INFO | Running PowerShell inspection command
+2026-04-02 10:51:13,948 | INFO | PowerShell inspection command completed successfully
+2026-04-02 10:51:13,948 | INFO | Inspection payload parsed for target=10.1.1.172 computer=10.1.1.172 sql_details=15 services=2
+2026-04-02 10:51:13,948 | INFO | Inspection thread completed for target=10.1.1.172 cpu=7.0 memory=31.9GB services=2 disks=5
+2026-04-02 10:51:13,949 | INFO | Snapshot received for computer=10.1.1.172 ip=10.1.1.172
+2026-04-02 10:51:13,958 | INFO | Inspection cycle finished and system is ready
+2026-04-02 10:52:13,123 | INFO | Logging initialized at E:\pmc\projects\ServerHealthCheck\logs\inspection.log
+2026-04-02 10:52:13,144 | INFO | Application started. Log file: E:\pmc\projects\ServerHealthCheck\logs\inspection.log

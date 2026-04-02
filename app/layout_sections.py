@@ -19,13 +19,13 @@ from .widgets import Panel
 def build_sidebar(window) -> QFrame:
     sidebar = QFrame()
     sidebar.setObjectName("leftMenuSubContainer")
-    sidebar.setFixedWidth(96)
+    sidebar.setFixedWidth(110)
 
     sidebar_layout = QVBoxLayout(sidebar)
     sidebar_layout.setContentsMargins(10, 10, 10, 10)
     sidebar_layout.setSpacing(10)
 
-    window.menu_toggle = QPushButton("|||")
+    window.menu_toggle = QPushButton("Menu")
     window.menu_toggle.clicked.connect(window._toggle_sidebar)
     window.menu_toggle.setObjectName("menuButton")
     sidebar_layout.addWidget(window.menu_toggle)
@@ -39,7 +39,7 @@ def build_sidebar(window) -> QFrame:
         sidebar_layout.addWidget(button)
     sidebar_layout.addStretch(1)
 
-    window.theme_side_btn = QPushButton("Theme")
+    window.theme_side_btn = QPushButton("Appearance")
     window.theme_side_btn.clicked.connect(window.toggle_theme)
     sidebar_layout.addWidget(window.theme_side_btn)
     return sidebar
@@ -53,7 +53,7 @@ def build_header(window) -> QFrame:
     header_layout.setSpacing(16)
 
     brand_wrap = QHBoxLayout()
-    window.logo_badge = QLabel("22")
+    window.logo_badge = QLabel("GH")
     window.logo_badge.setObjectName("logoBadge")
     window.logo_badge.setAlignment(Qt.AlignmentFlag.AlignCenter)
     brand_wrap.addWidget(window.logo_badge)
@@ -73,7 +73,7 @@ def build_header(window) -> QFrame:
     window.last_checked.setProperty("muted", True)
     header_layout.addWidget(window.last_checked)
 
-    window.theme_button = QPushButton("Day")
+    window.theme_button = QPushButton("Theme")
     window.theme_button.clicked.connect(window.toggle_theme)
     header_layout.addWidget(window.theme_button)
 

@@ -119,9 +119,9 @@ class MainWindow(QMainWindow):
             button.style().polish(button)
 
     def _toggle_sidebar(self) -> None:
-        expanded = self.sidebar.width() > 96
-        self.sidebar.setFixedWidth(96 if expanded else 170)
-        labels = ["Home", "System", "DB", "Apps", "Report"] if not expanded else ["H", "D", "DB", "A", "R"]
+        expanded = self.sidebar.width() > 110
+        self.sidebar.setFixedWidth(110 if expanded else 188)
+        labels = ["Home", "System", "Database", "Apps", "Report"] if not expanded else ["H", "S", "DB", "A", "R"]
         for button, label in zip(self.nav_buttons, labels, strict=False):
             button.setText(label)
 
